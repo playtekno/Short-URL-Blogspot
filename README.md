@@ -31,6 +31,11 @@ if (key && urls[key]) {
 
 Skrip JavaScript ini memungkinkan Anda untuk membuat URL pendek untuk situs Blogspot Anda. Pengguna dapat mengakses tautan tertentu dengan menambahkan pengidentifikasi unik ke URL.
 
+Demo:
+ ```
+https://www.playtekno.biz.id/o/vcc
+ ```
+
 ## Fitur
 
 - Mengarahkan pengguna ke URL yang ditentukan berdasarkan kunci.
