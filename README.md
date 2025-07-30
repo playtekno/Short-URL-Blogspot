@@ -17,16 +17,20 @@ Skrip JavaScript ini memungkinkan Anda untuk membuat URL pendek untuk situs Blog
 
 2. **Modifikasi Pemetaan URL:**
    Dalam objek `urls` di dalam skrip, Anda dapat menambahkan atau memodifikasi kunci dan URL tujuan yang sesuai. Formatnya adalah:
-   ```javascript
-   'kunci': 'https://url-tujuan-anda.com',
-   ```
+  ```
+'fb': 'https://www.facebook.com/playtekno.biz.id',
+  'vcc': 'https://www.playtekno.biz.id/2025/07/bank-digital-indonesia-penyedia-vcc-terbaik-2025.html'
+  ```
 
 3. **Menggunakan Skrip:**
-   Untuk menggunakan skrip, tambahkan `o/{kunci}` ke URL Blogspot Anda. Contohnya:
+   Untuk menggunakan short URL, tambahkan `o/{kunci}` ke URL Blogspot Anda. Contohnya:
    ```
-   https://bloganda.blogspot.com/o/fb
+   https://bloganda.blogspot.com/o/vcc
    ```
-   Ini akan mengarahkan pengguna ke `https://www.facebook.com/playtekno.biz.id`.
+   Ini akan mengarahkan pengguna ke
+    ```
+   https://www.playtekno.biz.id/2025/07/bank-digital-indonesia-penyedia-vcc-terbaik-2025.html`
+    ```
 
 ## Contoh
 
