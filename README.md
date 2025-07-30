@@ -55,9 +55,9 @@ Skrip JavaScript ini memungkinkan Anda untuk membuat URL pendek untuk situs Blog
    ```
    Ini akan mengarahkan pengguna ke
     ```
-   https://www.playtekno.biz.id/2025/07/bank-digital-indonesia-penyedia-vcc-terbaik-2025.html`
+   https://www.playtekno.biz.id/2025/07/bank-digital-indonesia-penyedia-vcc-terbaik-2025.html
     ```
-
+Anda bisa mengganti slug /o/ sesuai kebutuhan
 ## Contoh
 
 Jika Anda ingin membuat URL pendek untuk GitHub, Anda dapat mengakses:
