@@ -1,5 +1,5 @@
 
-# Skrip Short URL Blogspot
+# Short URL Blogspot
 
 ```
 <script language='javascript'>
